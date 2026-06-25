@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anujdas1/Leetcode/tree/master/0054-spiral-matrix) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/anujdas1/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Matrix
 |  |
 | ------- |
