@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/anujdas1/Leetcode/tree/master/0018-4sum) |
 | [0054-spiral-matrix](https://github.com/anujdas1/Leetcode/tree/master/0054-spiral-matrix) |
 | [0994-rotting-oranges](https://github.com/anujdas1/Leetcode/tree/master/0994-rotting-oranges) |
+| [1046-last-stone-weight](https://github.com/anujdas1/Leetcode/tree/master/1046-last-stone-weight) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/anujdas1/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1834-single-threaded-cpu](https://github.com/anujdas1/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/anujdas1/Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/anujdas1/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/anujdas1/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1046-last-stone-weight](https://github.com/anujdas1/Leetcode/tree/master/1046-last-stone-weight) |
 | [1834-single-threaded-cpu](https://github.com/anujdas1/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/anujdas1/Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Data Stream
