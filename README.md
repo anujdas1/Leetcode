@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/anujdas1/Leetcode/tree/master/0054-spiral-matrix) |
 | [0994-rotting-oranges](https://github.com/anujdas1/Leetcode/tree/master/0994-rotting-oranges) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/anujdas1/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/anujdas1/Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Matrix
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/anujdas1/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/anujdas1/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/anujdas1/Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Data Stream
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/anujdas1/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Greedy
+|  |
+| ------- |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/anujdas1/Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 <!---LeetCode Topics End-->
