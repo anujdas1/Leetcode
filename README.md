@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0054-spiral-matrix](https://github.com/anujdas1/Leetcode/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/anujdas1/Leetcode/tree/master/1260-shift-2d-grid) |
+| [3360-stone-removal-game](https://github.com/anujdas1/Leetcode/tree/master/3360-stone-removal-game) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/anujdas1/Leetcode/tree/master/0130-surrounded-regions) |
+## Math
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/anujdas1/Leetcode/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
