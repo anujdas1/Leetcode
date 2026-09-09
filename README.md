@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-last-stone-weight](https://github.com/anujdas1/Leetcode/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/anujdas1/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/anujdas1/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/anujdas1/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1834-single-threaded-cpu](https://github.com/anujdas1/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/anujdas1/Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Matrix
