@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/anujdas1/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/anujdas1/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/anujdas1/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Bucket Sort
 |  |
@@ -133,5 +134,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/anujdas1/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3360-stone-removal-game](https://github.com/anujdas1/Leetcode/tree/master/3360-stone-removal-game) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/anujdas1/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/anujdas1/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
