@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/anujdas1/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/anujdas1/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/anujdas1/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/anujdas1/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Bucket Sort
 |  |
 | ------- |
